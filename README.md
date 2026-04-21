@@ -10,8 +10,6 @@
 <h3 align="left">About</h3>
 <p>A dedicated student with a keen interest in developing dependable applications. Demonstrates strong problem-solving abilities, a commitment to excellence, and a constant pursuit of enhancement.</p>
 <p>
-- 🔭 Check out my <a href="https://drive.google.com/file/d/19D5DU1ZJqLABR2T7AAJxxwqvJDADmJLG/view?usp=sharing"><b>Resume</b></a><br>
-- 💻 All of my projects are available on <a href="https://github.com/NM0913/"><b>GitHub</b></a><br>
 - 🌱 I look for opportunities to use my skills to solve challenging real-world problems.<br>
 - 👯 I am open to collaboration with creators, developers and tech enthusiasts.<br>
 </p>
