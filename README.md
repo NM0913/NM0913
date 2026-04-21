@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Noah M</h1>
-<h3 align="center">Computer Science and Engineering Student | Open-source Enthusiast</h3>
+<h3 align="center">Full Stack Developer | Graphic Designer</h3>
 
 <hr>
 
