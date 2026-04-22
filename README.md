@@ -45,76 +45,83 @@ I don’t just build features—I design experiences.<br/>
 
 <h3 align="left">Skills and Tools Usage</h3>
 
-<h4 align="left">📋 Programming Languages</h4>
-<h5>Client Side</h5>
-<p align="left">
+<div style="background:#0d1117; padding:20px; border-radius:10px; font-family:Arial;">
 
-  <!-- ================= BACKEND ADVANCED ================= -->
-  <strong>Backend (Advanced)</strong><br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30"/> 
+  <h2 style="color:white;">👍 SKILLS</h2>
 
-  <!-- GraphQL -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="30"/> 
+  <!-- ================= CLIENT ================= -->
+  <h3 style="color:#8b949e;">Client-Side</h3>
+  <p>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white"/>
+    <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+    <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D"/>
+    <img src="https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white"/>
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=flat&logo=nuxt.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"/>
+    <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Material_UI-007FFF?style=flat&logo=mui&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white"/>
+  </p>
 
-  <!-- ================= DATABASE ADVANCED ================= -->
-  <br/><br/>
-  <strong>Database & Caching</strong><br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30"/> 
+  <!-- ================= SERVER ================= -->
+  <h3 style="color:#8b949e;">Server-Side</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Fastify-000000?style=flat&logo=fastify&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Rails-CC0000?style=flat&logo=rubyonrails&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socket.io&logoColor=white"/>
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
+    <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white"/>
+  </p>
 
-  <!-- ================= DEVOPS ADVANCED ================= -->
-  <br/><br/>
-  <strong>DevOps & Cloud</strong><br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="30"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="30"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="30"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="30"/> 
-
-  <!-- ================= MESSAGING ================= -->
-  <br/><br/>
-  <strong>Messaging & Streaming</strong><br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="30"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" height="30"/> 
-
-  <!-- ================= TESTING ================= -->
-  <br/><br/>
-  <strong>Testing</strong><br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" height="30"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="30"/> 
-
-  <!-- ================= MOBILE ================= -->
-  <br/><br/>
-  <strong>Mobile</strong><br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30"/> 
+  <!-- ================= DEVOPS ================= -->
+  <h3 style="color:#8b949e;">DevOps & Cloud</h3>
+  <p>
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Apache-D22128?style=flat&logo=apache&logoColor=white"/>
+  </p>
 
   <!-- ================= AI ================= -->
-  <br/><br/>
-  <strong>AI / ML</strong><br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30"/> 
-
-  <!-- ================= DESIGN ================= -->
-  <br/><br/>
-  <strong>Design</strong><br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30"/> 
+  <h3 style="color:#8b949e;">AI / ML</h3>
+  <p>
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white"/>
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+    <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
+    <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white"/>
+  </p>
 
   <!-- ================= TOOLS ================= -->
-  <br/><br/>
-  <strong>Tools</strong><br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30"/> 
+  <h3 style="color:#8b949e;">DevToolKit</h3>
+  <p>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Trello-0079BF?style=flat&logo=trello&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
+  </p>
 
-</p>
+</div>
