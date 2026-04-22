@@ -9,8 +9,9 @@
 
 <h3 align="left">About</h3>
 <p>Hi, I’m Noah Martin, a Senior Software Engineer with a strong design mindset. I build scalable systems and craft intuitive user experiences—bridging the gap between engineering and product design.</p>
+
+<h4>🧠 About Me</h4>
 <p>
-🧠 About Me<br/>
 💼 6+ years of experience in software development<br/>
 🌍 Worked with international teams (UK-based companies, US-Remote companies)<br/>
 ⚡ Strong believer in impact over years of experience<br/>
@@ -18,8 +19,8 @@
 🧩 Passionate about solving real-world problems with technology
 </p>
 
+<h4>🎨 Design + Engineering Approach</h4>  
 <p>
-  🎨 Design + Engineering Approach<br/>
 I don’t just build features—I design experiences.<br/>
 🧩 User-centered design thinking<br/>
 🎯 Focus on usability, simplicity, and clarity<br/>
