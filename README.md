@@ -8,10 +8,14 @@
 <hr>
 
 <h3 align="left">About</h3>
-<p>A dedicated student with a keen interest in developing dependable applications. Demonstrates strong problem-solving abilities, a commitment to excellence, and a constant pursuit of enhancement.</p>
+<p>Hi, I’m Your Name, a passionate Full Stack Software Engineer with a strong focus on building scalable, high-performance applications. I specialize in modern backend systems, cloud-native architectures, and clean, maintainable code.</p>
 <p>
-- 🌱 I look for opportunities to use my skills to solve challenging real-world problems.<br>
-- 👯 I am open to collaboration with creators, developers and tech enthusiasts.<br>
+🧠 About Me<br/>
+💼 5+ years of experience in software development<br/>
+🌍 Worked with international teams (US/UK-based companies)<br/>
+⚡ Strong believer in impact over years of experience<br/>
+💡 I bring fresh ideas, creativity, and fast execution into every project<br/>
+🧩 Passionate about solving real-world problems with technology
 </p>
 
 <h4 align="left">GSSOC(24) Badges 🪶</h4>
