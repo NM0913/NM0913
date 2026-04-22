@@ -125,3 +125,76 @@ I don’t just build features—I design experiences.<br/>
   </p>
 
 </div>
+
+<div style="background:#0d1117; padding:20px; border-radius:10px; font-family:Arial; color:#c9d1d9;">
+
+  <h2 style="color:white;">🚀 Featured Projects</h2>
+
+  <!-- ================= PROJECT 1 ================= -->
+  <h3 style="color:#58a6ff;">🔹 Scalable E-Commerce Platform</h3>
+  <p>
+    Designed and developed a full-stack e-commerce system focused on performance, scalability, and user experience.
+  </p>
+  <p><strong>Tech Stack:</strong> React, Next.js, Java (Spring Boot), PostgreSQL, Docker</p>
+  <ul>
+    <li>🚀 Handled <strong>10,000+ monthly users</strong> with stable performance</li>
+    <li>⚡ Reduced page load time by <strong>45%</strong> using SSR (Next.js)</li>
+    <li>📈 Increased conversion rate by <strong>20%</strong> through UX improvements</li>
+    <li>🔄 Built REST APIs processing <strong>50K+ requests/day</strong></li>
+    <li>🐳 Containerized deployment, reducing setup time by <strong>70%</strong></li>
+  </ul>
+
+  <!-- ================= PROJECT 2 ================= -->
+  <h3 style="color:#58a6ff;">🔹 Reactive Microservices Platform</h3>
+  <p>
+    Built a high-performance microservices architecture using reactive programming principles.
+  </p>
+  <p><strong>Tech Stack:</strong> Quarkus, Mutiny, Kafka, Docker, Kubernetes</p>
+  <ul>
+    <li>⚡ Improved system throughput by <strong>60%</strong> with non-blocking APIs</li>
+    <li>🔁 Processed <strong>100K+ events/day</strong> using Kafka</li>
+    <li>📉 Reduced latency by <strong>35%</strong> under high concurrency</li>
+    <li>🧩 Designed <strong>5+ independent microservices</strong> for scalability</li>
+    <li>☁️ Deployed on Kubernetes with auto-scaling capabilities</li>
+  </ul>
+
+  <!-- ================= PROJECT 3 ================= -->
+  <h3 style="color:#58a6ff;">🔹 Real-Time Chat Application</h3>
+  <p>
+    Developed a real-time messaging platform with scalable backend and smooth UI experience.
+  </p>
+  <p><strong>Tech Stack:</strong> Node.js, Socket.io, React, MongoDB</p>
+  <ul>
+    <li>💬 Supported <strong>5,000+ concurrent users</strong></li>
+    <li>⚡ Delivered real-time messaging with <strong>&lt;100ms latency</strong></li>
+    <li>🔐 Implemented secure authentication (JWT)</li>
+    <li>📊 Optimized DB queries, improving response time by <strong>30%</strong></li>
+  </ul>
+
+  <!-- ================= PROJECT 4 ================= -->
+  <h3 style="color:#58a6ff;">🔹 AI-Powered Automation Tool</h3>
+  <p>
+    Built an automation system integrating AI APIs to streamline repetitive workflows.
+  </p>
+  <p><strong>Tech Stack:</strong> Python, AI APIs, Node.js</p>
+  <ul>
+    <li>🤖 Automated <strong>70% of manual tasks</strong></li>
+    <li>⏱️ Reduced processing time from <strong>hours → minutes</strong></li>
+    <li>📈 Improved operational efficiency by <strong>40%</strong></li>
+    <li>🔌 Integrated external APIs for scalable automation</li>
+  </ul>
+
+  <!-- ================= PROJECT 5 ================= -->
+  <h3 style="color:#58a6ff;">🔹 Portfolio & UI/UX System</h3>
+  <p>
+    Designed and developed a modern portfolio with a strong focus on UI/UX and performance.
+  </p>
+  <p><strong>Tech Stack:</strong> Next.js, Tailwind CSS, Figma</p>
+  <ul>
+    <li>🎨 Designed complete UI system in Figma before development</li>
+    <li>⚡ Achieved <strong>95+ Lighthouse performance score</strong></li>
+    <li>📱 Fully responsive across all devices</li>
+    <li>👁️ Increased engagement time by <strong>30%</strong></li>
+  </ul>
+
+</div>
