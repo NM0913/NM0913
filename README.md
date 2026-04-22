@@ -3,7 +3,7 @@
 
 <hr>
 
-<img src="NatureWithTech.jpg" alt="NatureWithTech" width=1100>
+<img src="ChatGPT Image Apr 22, 2026, 01_39_15 AM.png" alt="NatureWithTech" width=1100>
 
 <hr>
 
