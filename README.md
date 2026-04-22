@@ -8,14 +8,24 @@
 <hr>
 
 <h3 align="left">About</h3>
-<p>Hi, I’m Your Name, a passionate Full Stack Software Engineer with a strong focus on building scalable, high-performance applications. I specialize in modern backend systems, cloud-native architectures, and clean, maintainable code.</p>
+<p>Hi, I’m Noah Martin, a Senior Software Engineer with a strong design mindset. I build scalable systems and craft intuitive user experiences—bridging the gap between engineering and product design.</p>
 <p>
 🧠 About Me<br/>
-💼 5+ years of experience in software development<br/>
-🌍 Worked with international teams (US/UK-based companies)<br/>
+💼 6+ years of experience in software development<br/>
+🌍 Worked with international teams (UK-based companies, US-Remote companies)<br/>
 ⚡ Strong believer in impact over years of experience<br/>
 💡 I bring fresh ideas, creativity, and fast execution into every project<br/>
 🧩 Passionate about solving real-world problems with technology
+</p>
+
+<p>
+  🎨 Design + Engineering Approach<br/>
+I don’t just build features—I design experiences.<br/>
+🧩 User-centered design thinking<br/>
+🎯 Focus on usability, simplicity, and clarity<br/>
+⚡ Rapid prototyping & iteration<br/>
+🔍 Attention to UI/UX details that improve engagement<br/>
+🤝 Bridging communication between designers & developers
 </p>
 
 <h4 align="left">GSSOC(24) Badges 🪶</h4>
@@ -27,19 +37,35 @@
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
+   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="100px" height="100px" />
+   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="100px" height="100px" />
+   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/8.png" width="100px" height="100px" />
 </a>
 </div>
 
 <h3 align="left">Skills and Tools Usage</h3>
 
 <h4 align="left">📋 Programming Languages</h4>
+<h5>Client Side</h5>
 <p>
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="c" />&nbsp;
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />&nbsp;
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />&nbsp;
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />&nbsp;
 <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />&nbsp;
+<img src="[https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54](https://camo.githubusercontent.com/0a01272bca613d675b2142d72f3f5341e5d241004646314409406ca20b33cd11/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631452e7376673f6c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b)" alt="Python" />&nbsp;
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="JavaScript" />&nbsp;
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />&nbsp;
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />&nbsp;
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />&nbsp;
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />&nbsp;
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />&nbsp;
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />&nbsp;
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />&nbsp;
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />&nbsp;
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />&nbsp;
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />&nbsp;
+  
 </p>
 
 <h4 align="left">📚 Frameworks</h4>
