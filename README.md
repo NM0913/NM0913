@@ -7,21 +7,6 @@
 
 <hr>
 
-<div align="center">
-
-  <h1>Hi 👋, I'm Your Name</h1>
-
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Senior+Full+Stack+Software+Engineer;Design-Minded+Developer;Building+Scalable+Systems;Creating+Clean+%26+Modern+UI/UX" alt="Typing SVG" />
-
-  <br/><br/>
-
-  <p>
-    I build scalable applications and design intuitive user experiences.<br/>
-    Passionate about clean architecture, performance, and impactful products.
-  </p>
-
-</div>
-
 <h3 align="left">About</h3>
 <p>Hi, I’m Noah Martin, a Senior Software Engineer with a strong design mindset. I build scalable systems and craft intuitive user experiences—bridging the gap between engineering and product design.</p>
 <p>
